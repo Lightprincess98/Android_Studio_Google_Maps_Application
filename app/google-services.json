@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898968094604",
+    "firebase_url": "https://opscsem2task2.firebaseio.com",
+    "project_id": "opscsem2task2",
+    "storage_bucket": "opscsem2task2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898968094604:android:07a5acee39cdc6b811f8a9",
+        "android_client_info": {
+          "package_name": "com.example.opscsem2task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898968094604-s4packiga5lo7d137oefkhn6ho0oh9e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvaDVifAp6jcoAaokbAVXf1CRkvZFfJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898968094604-s4packiga5lo7d137oefkhn6ho0oh9e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
